@@ -20,4 +20,4 @@ jobs:
         # Github email
         user_email: s35p@outlook.com # default is 
         # The deploy key for Github Pages repo
-        deploy_key: ${{ secrets.GITHUB_TOKEN }}
+        deploy_key: ${{ secrets.DEPLOY_KEY }}
